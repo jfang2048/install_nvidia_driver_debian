@@ -67,3 +67,12 @@ depmod
 
 1.  [https://docs.heavy.ai/installation-and-configuration/installation/installing-on-ubuntu/install-nvidia-drivers-and-vulkan-on-ubuntu](https://docs.heavy.ai/installation-and-configuration/installation/installing-on-ubuntu/install-nvidia-drivers-and-vulkan-on-ubuntu)
 
+
+---
+
+#### tips
+
+> It’s usually not a good idea to use the NVIDIA driver directly on a GNU/Linux physical machine. Most of the time, I use it inside a VM instead. If you want to passthrough the GPU to a VM, please read my other Markdown document.
+
+
+
